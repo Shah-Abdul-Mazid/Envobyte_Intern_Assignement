@@ -315,6 +315,5 @@ tests/test_contacts.py::test_contacts_statistics               PASSED  [100%]
 
 ## 🎥 Live Test Recording
 
-<video width="800" controls>
-  <source src="https://drive.google.com/file/d/1XzfqoP_aOagI7kO2_z3bkzeQqJiC_0Qx/view?usp=sharing" type="video/mp4">
-</video>
+[▶️ Watch Live Test Recording (Google Drive)](https://drive.google.com/file/d/1XzfqoP_aOagI7kO2_z3bkzeQqJiC_0Qx/view?usp=sharing)
+
