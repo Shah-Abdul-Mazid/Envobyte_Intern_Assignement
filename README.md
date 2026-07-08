@@ -312,3 +312,9 @@ tests/test_contacts.py::test_contacts_statistics               PASSED  [100%]
 ## ⏱️ Estimated Time Spent
 
 - **Total Time Spent:** 3.5 Hours
+
+## 🎥 Live Test Recording
+
+<video width="800" controls>
+  <source src="assets\LiveTest.mp4" type="video/mp4">
+</video>
