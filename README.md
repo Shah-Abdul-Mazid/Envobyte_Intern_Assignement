@@ -314,8 +314,6 @@ tests/test_contacts.py::test_contacts_statistics               PASSED  [100%]
 - **Total Time Spent:** 3.5 Hours
 
 ## 🎥 Live Test Recording
-
-## 🎥 Live Test Recording
 [▶️ Download / Watch Live Test Recording](https://github.com/Shah-Abdul-Mazid/Envobyte_Intern_Assignement/releases/download/Video/LiveTest.mp4)
 
 
